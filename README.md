@@ -17,13 +17,11 @@ This project looks at **25 seasons of team-level data (2000-01 to 2024-25)**. It
 | Has 3-point shooting become more tied to winning? | Yes. R² between 3-point efficiency and wins rose across eras: **0.18 → 0.31 → 0.35**. |
 | What sets champions apart? | Early-2000s champions were below the league median in both 3PT volume and efficiency. Since about 2015, champions have been almost exclusively high-volume **and** high-efficiency teams. |
 
-<!-- Export each Tableau chart as an image into an images/ folder, then uncomment:
 ![3PA per game over time](images/3pa_over_time.png)
 ![Expected value of 2s vs 3s](images/expected_value.png)
 ![3PAr vs Offensive Rating](images/3par_vs_ortg.png)
 ![3PT efficiency vs wins by era](images/efficiency_vs_wins_by_era.png)
 ![Champions by volume and efficiency](images/champions_quadrant.png)
--->
 
 ## Data
 
