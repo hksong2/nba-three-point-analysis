@@ -21,7 +21,7 @@ This project looks at **25 seasons of team-level data (2000-01 to 2024-25)**. It
 ![Expected value of 2s vs 3s](images/expected_value.png)
 ![3PAr vs Offensive Rating](images/3par_vs_ortg.png)
 ![3PT efficiency vs wins by era](images/efficiency_vs_wins_by_era.png)
-![Champions by volume and efficiency](images/champions_quadrant.png)
+![Champions by volume and efficiency](images/champions_file.png)
 
 ## Data
 
